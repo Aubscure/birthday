@@ -1203,7 +1203,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 6em;
-  color: white;
+  color: rgb(197, 197, 197);
   padding: 20px;
   border-radius: 10px;
   text-align: center;
@@ -1218,7 +1218,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.30);
+  background-color: rgba(24, 24, 24, 0.227);
   opacity: 0;
   animation: fadeInBackground 10s forwards;
   animation-delay: 4s;
@@ -1243,7 +1243,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1.8em; /* Change this to adjust the font size */
-  color: white;
+  color: rgb(197, 197, 197);
   padding: 20px;
   border-radius: 10px;
   text-align: center;
@@ -1260,7 +1260,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(24, 24, 24, 0.227);
   opacity: 0;
   animation: fadeInBackground 10s forwards;
   animation-delay: 4s;
